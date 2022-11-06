@@ -1,6 +1,9 @@
 .ipynb_checkpoints
 .DS_STORE
-outputs/*
 
+# Repository of Mask RCNN
 Mask_RCNN/*
+
+# Directories for data
+outputs/*
 data/*
