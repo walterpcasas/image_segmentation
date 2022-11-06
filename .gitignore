@@ -2,3 +2,5 @@
 .DS_STORE
 outputs/*
 
+Mask_RCNN/*
+data/*
